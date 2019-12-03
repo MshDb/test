@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouScan", "YouScan\YouScan.csproj", "{DBD100A9-8ABC-4F4D-BDB4-25E3C0A86279}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{897E7BE5-B4C1-4BD7-A45E-27E8681F61E8}"
+	ProjectSection(SolutionItems) = preProject
+		interview-task-csharp.md = interview-task-csharp.md
+		OnePageSolutionWithoutTesting.cs = OnePageSolutionWithoutTesting.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouScan.Tests", "YouScan.Tests\YouScan.Tests.csproj", "{287A2216-A65D-4AEA-A2C1-35FF3B4EB3A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD100A9-8ABC-4F4D-BDB4-25E3C0A86279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD100A9-8ABC-4F4D-BDB4-25E3C0A86279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD100A9-8ABC-4F4D-BDB4-25E3C0A86279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD100A9-8ABC-4F4D-BDB4-25E3C0A86279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{287A2216-A65D-4AEA-A2C1-35FF3B4EB3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287A2216-A65D-4AEA-A2C1-35FF3B4EB3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287A2216-A65D-4AEA-A2C1-35FF3B4EB3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287A2216-A65D-4AEA-A2C1-35FF3B4EB3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
