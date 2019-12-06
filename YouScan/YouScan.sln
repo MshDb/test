@@ -6,7 +6,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{897E7BE5-B4C1-4BD7-A45E-27E8681F61E8}"
 	ProjectSection(SolutionItems) = preProject
 		interview-task-csharp.md = interview-task-csharp.md
-		OnePageSolutionWithoutTesting.cs = OnePageSolutionWithoutTesting.cs
+		interview_task_csharp_part2.md = interview_task_csharp_part2.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouScan.Tests", "YouScan.Tests\YouScan.Tests.csproj", "{287A2216-A65D-4AEA-A2C1-35FF3B4EB3A0}"

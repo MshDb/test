@@ -1,4 +1,6 @@
-﻿namespace YouScan
+﻿using System;
+
+namespace YouScan
 {
     public interface IPointOfSaleTerminal
     {
@@ -9,6 +11,8 @@
         //Охрана отмена!
         void Cancel(string name);
 
-        public decimal Bill();
+        void ScanDiscountCard(Guid? customerId = null);
+
+        decimal Bill();
     }
 }
